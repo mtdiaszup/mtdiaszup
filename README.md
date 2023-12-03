@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my corporative account, you could find me too at [mtdias](https://github.com/mtdias)
+This is my corporate account. You can also find me at [mtdias](https://github.com/mtdias).
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmtdias1212%2Fhit-counter">
 </p>
